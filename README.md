@@ -1,2 +1,2 @@
 # first_try
-this project is trial project
+This project is a trial project
